@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{hashemian2010state}
+Hashem~M Hashemian.
+\newblock State-of-the-art predictive maintenance techniques.
+\newblock {\em IEEE Transactions on Instrumentation and measurement},
+  60(1):226--236, 2010.
+
+\bibitem{prytz2013analysis}
+Rune Prytz, S{\l}awomir Nowaczyk, Thorsteinn R{\"o}gnvaldsson, and Stefan
+  Byttner.
+\newblock Analysis of truck compressor failures based on logged vehicle data.
+\newblock In {\em 9th International Conference on Data Mining, Las Vegas,
+  Nevada, USA, July 22--25, 2013}. CSREA Press, 2013.
+
+\bibitem{chawla2002smote}
+Nitesh~V Chawla, Kevin~W Bowyer, Lawrence~O Hall, and W~Philip Kegelmeyer.
+\newblock Smote: synthetic minority over-sampling technique.
+\newblock {\em Journal of artificial intelligence research}, 16:321--357, 2002.
+
+\end{thebibliography}

@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Loading packages}{}% 1
+\BOOKMARK [1][-]{section.2}{Data}{}% 2
+\BOOKMARK [1][-]{section.3}{Exploratory Data Analysis}{}% 3
+\BOOKMARK [1][-]{section.4}{Methodology}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Independent data sets for training and testing}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Balancing the dataset}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Fitted Models}{section.4}% 7
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Random Forest}{subsection.4.3}% 8
+\BOOKMARK [3][-]{subsubsection.4.3.2}{KNeighbors model}{subsection.4.3}% 9
+\BOOKMARK [3][-]{subsubsection.4.3.3}{XGBoost model}{subsection.4.3}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Gridsearch and Cross-validation}{section.4}% 11
+\BOOKMARK [3][-]{subsubsection.4.4.1}{Cross-validation}{subsection.4.4}% 12
+\BOOKMARK [3][-]{subsubsection.4.4.2}{Gridsearch}{subsection.4.4}% 13
+\BOOKMARK [1][-]{section.5}{Results}{}% 14
+\BOOKMARK [1][-]{section.6}{References}{}% 15

@@ -1,0 +1,14 @@
+((*- extends 'article.tplx' -*))
+
+((* block author *))
+\author{Yeimy V. Arevalo H.}
+((* endblock author *))
+
+((* block title *))
+\title{Predictive Mantainance Exercise}
+((* endblock title *))
+
+((* block bibliography *))
+\bibliography{jupyter}
+\bibliographystyle{unsrt}
+((* endblock bibliography *))
